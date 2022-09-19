@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 
 public class IOServices {
-	private final String FILE_PATH = "/IO-AddressBook/src/com/bridgelabz/PersonDetails.txt";
+	private final String FILE_PATH = "C:\\Users\\nayan\\OneDrive\\Desktop\\JavaProjects\\IO-AddressBook\\src\\com\\bridgelabz\\PersonDetails.txt";
 
 	public boolean writeData() throws IOException {
 		int i=0;
