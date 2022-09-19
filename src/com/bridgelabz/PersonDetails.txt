@@ -1,0 +1,2 @@
+ PersonDetails{firstName='Nayana', lastName='Suresh', address='coxtown', city='bangalore', state='karnataka', zip-560023, phoneNumber-8665425674, email-'nayana21@gmail.com'}
+ PersonDetails{firstName='Chaithra', lastName='Rajesh', address='banaswadi', city='bangalore', state='karnataka', zip-560028, phoneNumber-9765435675, email-'chai23@gmail.com'}
